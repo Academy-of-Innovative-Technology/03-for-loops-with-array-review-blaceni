@@ -1,7 +1,7 @@
 var arrayItems = ["Apple", "Banana", "Cherry", "Dragonfruit", "Pear", "Watermelon", "Grapes"];
 
 
-  let myArray =;
+  let myArray = [];
 
   // Function to display the array
   function updateArrayDisplay() {
